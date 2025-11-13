@@ -19,15 +19,12 @@ Table of contents
 - Future work & contribution
 - License
 
----
+## 📘 Project Overview
 
-## Project overview
+**DeepFER** is an advanced **Facial Emotion Recognition** project that leverages **Convolutional Neural Networks (CNNs)** to classify facial expressions into seven emotion categories:  
+😡 **Angry** | 🤢 **Disgust** | 😨 **Fear** | 😀 **Happy** | 😢 **Sad** | 😲 **Surprise** | 😐 **Neutral**
 
-DeepFER is a Convolutional Neural Network (CNN) project to classify facial expressions into seven emotion categories:
-
-Angry | Disgust | Fear | Happy | Sad | Surprise | Neutral
-
-The model is trained on 48×48 grayscale images (FER Almabetter dataset). The goal is a robust, generalizable emotion classifier for research and prototyping (e.g., educational analytics, mental-health signals, HCI).
+The project aims to build a robust and generalized deep learning model that can accurately detect emotions from facial images, enabling more **intuitive, responsive, and empathetic AI systems**.
 
 ---
 

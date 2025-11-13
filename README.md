@@ -27,6 +27,7 @@ Table of contents
 The project aims to build a robust and generalized deep learning model that can accurately detect emotions from facial images, enabling more **intuitive, responsive, and empathetic AI systems**.
 
 ---
+## 📦 Dataset Used: [FER_Dataset](https://drive.google.com/drive/folders/1IYARz3z593VfuV0kU8C2qDVL3XAyB1C4?usp=drive_link)
 
 ## Dataset & preprocessing
 
